@@ -1,4 +1,4 @@
-# MyProjects
+# Library circulation system
 
 The library circulation system is developed using web technologies - HTML, PHP, Javascript, jQuery and Ajax. 
 
